@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestMiniPos</string>
+    <string name="no">tidak</string>
+    <string name="select_device">Select Device</string>
+    <string name="none_found">No Fount</string>
+    <string name="title_other_devices">Other Device</string>
+    <string name="button_scan">Scan</string>
+    <string name="title_paired_devices">Paired</string>
+    <string name="none_paired">No paired</string>
+    <string name="scanning">Scanning</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_message">Message</string>
+    <string name="alert_btn_negative">Negatif</string>
+    <string name="alert_btn_positive">Positif</string>
+</resources>
